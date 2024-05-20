@@ -1,4 +1,5 @@
 6 服务调度
+
 local skynet = require "skynet"
 --让当前的任务等待 time * 0.01s 。
 skynet.sleep(time)  
